@@ -19,13 +19,13 @@
 
 ### 插件描述
 * 返回 ✔️ 表示大小和原始数据大小一致
-* 返回（数字）表示和原始数据包相差的大小
+* 返回 ==> 数字 表示和原始数据包相差的大小
 
 **********
 
 ### 插件截图
 
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/30351807/200182480-7b092886-8c04-4999-ae74-ee0d66bef603.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/30351807/200185464-351e6bc4-7cfb-40df-916f-9af112501b04.png">
 
 
 
