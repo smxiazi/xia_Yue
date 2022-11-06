@@ -19,7 +19,8 @@
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/30351807/200175424-4781e063-06c4-4692-b0d4-e8fa2160f75d.png">
 
 ************
-### 2022-11-6 瞎越v1.0 瞎越的诞生
+### 2022-11-6 瞎越v1.0
+* 瞎越的诞生
 
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/30351807/200175816-9e821e3c-d807-41cd-b975-eeb94e174e3a.png">
 
