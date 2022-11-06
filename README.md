@@ -25,7 +25,8 @@
 
 ### 插件截图
 
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/30351807/200175424-4781e063-06c4-4692-b0d4-e8fa2160f75d.png">
+<img width="1668" alt="image" src="https://user-images.githubusercontent.com/30351807/200182425-fb4dd3df-4330-4c78-baaf-10bb22f5b6dc.png">
+
 
 ************
 
