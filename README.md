@@ -21,8 +21,15 @@
 
 ### 插件截图
 
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/30351807/200185464-351e6bc4-7cfb-40df-916f-9af112501b04.png">
+<img width="1262" alt="image" src="https://user-images.githubusercontent.com/30351807/217506562-e60f9b3e-0449-4f81-88fe-4df33655e696.png">
 
+************
+
+### 2023-2-8 瞎越v1.1
+* 优化ui，方便测试的时候截图写报告。
+* 优化静态文件后缀
+
+<img width="1262" alt="image" src="https://user-images.githubusercontent.com/30351807/217506562-e60f9b3e-0449-4f81-88fe-4df33655e696.png">
 
 
 ************
